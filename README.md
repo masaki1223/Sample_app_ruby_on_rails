@@ -1,7 +1,5 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Tutorial of Ruby on Rails
 
 Things you may want to cover:
 
@@ -22,3 +20,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Clone repo and install RubyGems.
+$ bundle install --without production
+$ rails db:migrate
+$ rails test
+$ rails server 
