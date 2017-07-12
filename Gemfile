@@ -8,6 +8,8 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
+
+gem 'bcrypt', '3.1.11'
 #bootstrap
 gem 'bootstrap-sass', '3.3.7'
 gem 'autoprefixer-rails'
